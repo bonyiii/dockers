@@ -1,4 +1,4 @@
-# Basimage template 
+# Ruby webapp basimage template 
 
 Key features:
 
